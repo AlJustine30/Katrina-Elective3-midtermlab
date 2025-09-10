@@ -5,11 +5,9 @@ Purpose
 This project demonstrates semantic HTML, CSS best practices, accessibility features, and responsive design without using any JavaScript or frameworks.
 
 How to View
-Clone the repository: git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
+Clone the repository: git clone https://github.com/AlJustine30/Katrina-Elective3-midtermlab/tree/main
 
 Open index.html in a web browser
-
-Or view the live version at: [GitHub Pages URL]
 
 Accessibility Notes
 Semantic HTML elements used for better screen reader experience
